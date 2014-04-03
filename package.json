@@ -1,0 +1,23 @@
+{
+  "name": "blocks-playground",
+  "version": "0.0.0",
+  "description": "blocks-playground =================",
+  "main": "app.js",
+  "dependencies": {
+    "blocks": "~0.0.0",
+    "express": "~3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nnarhinen/blocks-playground.git"
+  },
+  "author": "Niklas Närhinen <niklas@narhinen.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnarhinen/blocks-playground/issues"
+  }
+}
